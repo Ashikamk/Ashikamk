@@ -1,16 +1,24 @@
-## Hi there 👋
+public class AshikaM
+{
+    private string name = "Ashika M";
+    private string location = "Tamil Nadu, India";
+    private string degree = "B.E. Computer Science & Engineering";
 
-<!--
-**Ashikamk/Ashikamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    private string[] stack = {
+        "C#", "ASP.NET Core", "ASP.NET MVC", "SignalR",
+        "Entity Framework Core", "ADO.NET", "SQL Server",
+        "MySQL", "PostgreSQL", "ReactJS", "JavaScript", "Flask"
+    };
 
-Here are some ideas to get you started:
+    private string[] currentlyLearning = {
+        "Advanced System Design", "Cloud (Azure)", "Microservices"
+    };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    private string funFact =
+        "Replaced Entity Framework with hand-rolled ADO.NET " +
+        "+ stored procedures to squeeze out performance on a " +
+        "hospital ERP handling large transactional data.";
+
+    public string motto() =>
+        "Clean architecture today saves debugging tomorrow.";
+}
