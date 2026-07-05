@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashika%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=.NET%20Developer%20%7C%20Full-Stack%20Web%20%26%20Enterprise%20Applications&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashika%20M&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=.NET%20Developer%20%7C%20Full-Stack%20Web%20%26%20Enterprise%20Applications&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Globify+Software+Solutions;ASP.NET+Core+%7C+C%23+%7C+SQL+Server+%7C+Entity+Framework;Building+Scalable+ERP+%26+Hospital+Management+Systems;Real-Time+Apps+with+SignalR+%2B+NLP-powered+Chatbots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Globify+Software+Solutions;ASP.NET+Core+%7C+C%23+%7C+SQL+Server+%7C+Entity+Framework;Building+Scalable+ERP+%26+Hospital+Management+Systems;Real-Time+Apps+with+SignalR+%2B+NLP-powered+Chatbots" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/ashika-m" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:msg2ashika@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ashikamk" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Ashikamk&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -38,6 +45,18 @@ public class AshikaM
 ```
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Currently_Building-EUMI__ERP_Operation_Theatre_Module-70A5FD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🌱_Learning-Azure_%7C_System_Design_%7C_Microservices-BF91F3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💬_Ask_me_about-.NET_%7C_C%23_%7C_SQL_%7C_SignalR-38BDAE?style=flat-square"/>
+</p>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -84,7 +103,11 @@ public class AshikaM
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 </p>
 
-<br/>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -108,7 +131,11 @@ public class AshikaM
   <img src="https://github-profile-trophy.vercel.app/?username=Ashikamk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
-<br/>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## 💼 Work Experience
 
@@ -139,7 +166,11 @@ public class AshikaM
 
 </details>
 
-<br/>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -153,7 +184,11 @@ public class AshikaM
 
 </div>
 
-<br/>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## 🏆 Achievements
 
@@ -168,7 +203,11 @@ public class AshikaM
 
 </div>
 
-<br/>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## 🎓 Education
 
@@ -191,7 +230,9 @@ public class AshikaM
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashikamk&color=70a5fd&style=flat-square&label=Profile+Views"/>
-</div>
+
+### 💭 "Clean architecture today saves debugging tomorrow."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
