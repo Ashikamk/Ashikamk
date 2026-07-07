@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/banner.svg" width="100%" alt="Ashika M — Software Developer"/>
+  <img src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/banner.png" width="100%" alt="Ashika M — Software Developer"/>
 </p>
 
 <!-- TYPING HEADER -->
