@@ -57,7 +57,7 @@ public class AshikaM
 </td>
 <td valign="middle" width="38%" align="center">
 
-<img width="300" src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/image1.jfif" alt="Ashika M"/>
+<img width="420" height="420" src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/image1.jfif" alt="Ashika M"/>
 
 </td>
 </tr>
