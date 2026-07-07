@@ -1,12 +1,12 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/image2.jfif" width="100%" alt="Akash R M — AI Developer"/>
+  <img src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/banner.svg" width="100%" alt="Ashika M — Software Developer"/>
 </p>
 
 <!-- TYPING HEADER -->
 <p align="center">
-  <a href="https://github.com/akash-BuildHub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=AI+Developer+%26+Computer+Vision+Engineer;Specialized+in+Deep+Learning%2C+Machine+Learning+%26+Real-Time+AI+Systems" alt="Typing SVG"/>
+  <a href="https://github.com/ashika-m">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+.NET+%26+Full-Stack+Engineer;Specialized+in+ASP.NET+Core%2C+C%23%2C+REST+APIs+%26+Real-Time+Systems" alt="Typing SVG"/>
   </a>
 </p>
 
