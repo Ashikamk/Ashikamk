@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashika%20M&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20.NET%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%" alt="Ashika M — .NET Developer"/>
+  <img src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/image1.jfif" width="100%" alt="Ashika M — .NET Developer"/>
 </p>
 
 <!-- TYPING HEADER -->
