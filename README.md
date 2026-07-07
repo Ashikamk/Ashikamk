@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akash-BuildHub/akash-BuildHub/main/banner.gif" width="100%" alt="Akash R M — AI Developer"/>
+  <img src="https://raw.githubusercontent.com/Ashikamk/Ashikamk/main/image2.jfif" width="100%" alt="Akash R M — AI Developer"/>
 </p>
 
 <!-- TYPING HEADER -->
