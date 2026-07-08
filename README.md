@@ -253,6 +253,7 @@ public class AshikaM
 
 | | Role | Organization & Period |
 |---|------|----------------------|
+| 🖥️ | .Net Fullstack | Suffix E Solutions · 2025 |
 | 🐍 | Python Programming Intern | Srishti Innovations · 2023 |
 | 🖥️ | Computer Fundamentals | Matt Engineering Equipments · 2022 |
 
