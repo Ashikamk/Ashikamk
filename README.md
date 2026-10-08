@@ -69,14 +69,17 @@ public class AshikaM
 
 <table>
   <tr>
-    <td><b>Web</b></td>
+    <td><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/jQuery%20%2B%20AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/particles.js-555555?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ScrollReveal-555555?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -85,9 +88,15 @@ public class AshikaM
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET%206-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/RESTful%20APIs-0096D6?style=for-the-badge&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -99,22 +108,51 @@ public class AshikaM
       <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/Stored%20Procedures-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Table--Valued%20Parameters-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Other Tools</b></td>
+    <td><b>Architecture &amp; Patterns</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVC%20Pattern-512BD4?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Layered%20Architecture-0A66C2?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Multi--Tenant%20Design-38BDAE?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Monolithic%20Apps-555555?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Event--Driven-EA4335?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Real--Time%20Systems-F7DF1E?style=for-the-badge&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Security &amp; Auth</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cookie%20Auth%20%2B%20Claims-181717?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Role--Based%20Access%20Control-181717?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/CSRF%20Anti--Forgery-181717?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Password%20Hashing-181717?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Email%20Verification-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
       <img src="https://img.shields.io/badge/NLP-38BDAE?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/SVM%20Classifier-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CountVectorizer-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Text%20Preprocessing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Libraries &amp; Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NPOI%20(Excel)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MailKit%20(SMTP)-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </td>
   </tr>
 </table>
-
----
 
 ### 💼 Work Experience
 
